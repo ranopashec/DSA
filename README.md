@@ -3,4 +3,4 @@
 # special data structures
 - binary search
 - is heap
-- huffman
+- [huffman](https://github.com/ranopashec/DSA/blob/main/huffman.md)
